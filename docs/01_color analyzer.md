@@ -1,3 +1,4 @@
+# Fashion Color Analyzer 🎨
 
 ## Overview
 This project applies unsupervised learning (KMeans clustering) to real-world fashion images to automatically extract dominant color patterns.
